@@ -8,6 +8,7 @@ Ebert-Uphoff, I., R. Lagerquist, K. Haynes, M. McGraw, and K. Musgrave, 2022: "M
 <br />
 [Colab notebook for Monte Carlo dropout](https://colab.research.google.com/drive/1h_lmmD98fv7pmIAXsdA433bWKQOEw42O)
 
+[Colab notebook for Continuous Rank Probability Score (CRPS) Loss](https://colab.research.google.com/drive/1e-qLJEay7E8Szm2JoUV9o25Xi0vxaM8O?usp=sharing) <br />
 [Colab notebook for regression tasks](https://colab.research.google.com/drive/1OQkNle8imtkODvXmQ4F1R7bT_RYs15O9?usp=sharing)
 
 Notes from Ryan to all:
